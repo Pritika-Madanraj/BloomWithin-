@@ -16,3 +16,4 @@ This is a static site. Upload the three files (`index.html`, `style.css`, `scrip
 - Remo uses preset responses, not a live AI model or clinician.
 - The site provides general education only, not diagnosis or personalised treatment.
 - The Tamil selector is marked as coming soon; the site content is currently in English.
+https://bloomwithin-ypforwomen-ac01a5.netlify.app/#home
